@@ -11,14 +11,8 @@ schedule <- function(day_of_week) {
   }
 }
 
-schedule("Monday")
+schedule("Saturday")
 
 
 
-schedules <- function(day_of_week) {
-  for (day_of_week in weekday) {
-    print(paste("Enjoy your", day_of_week))
-  }
-}
 
-schedules("Tuesday")
