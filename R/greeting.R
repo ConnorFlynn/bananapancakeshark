@@ -16,3 +16,5 @@ greeting <- function(my_name, major, graduating_year) {
 }
 
 
+greeting("charles", "marine bio", 2021)
+

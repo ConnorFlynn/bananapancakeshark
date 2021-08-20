@@ -2,4 +2,5 @@
 
 export(fruit_price)
 export(greeting)
+export(theme_okay)
 export(wave_size)
